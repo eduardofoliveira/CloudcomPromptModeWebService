@@ -1,0 +1,5 @@
+// Criar Migrations
+npx sequelize migration:create --name=create-users
+
+// Executar as migrations
+npx sequelize db:migrate
