@@ -29,6 +29,6 @@
     "express-validation": "^1.0.2",
     "jsonwebtoken": "^8.5.1",
     "mariadb": "^2.0.3",
-    "sequelize": "^5.2.13"
+    "sequelize": "^5.7.5"
   }
 }
